@@ -1,0 +1,3 @@
+class ParseError(Exception):
+     """Raised when the map file is invalid."""
+     ...
