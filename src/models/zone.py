@@ -1,7 +1,6 @@
 from dataclasses import dataclass, field
 from typing import Optional
 from .enums import ZoneType
-from .connection import Connection
 
 
 @dataclass
